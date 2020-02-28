@@ -21,7 +21,7 @@
 ## :rocket: Desafios
 
 - [Primeiro HTML](https://github.com/martins-rafael/bootcamp-launchbase-desafios-02/tree/master/02-1%20Primeiro%20HTML)
-- Página de descrição
+- [Página de descrição](https://github.com/martins-rafael/bootcamp-launchbase-desafios-02/tree/master/02-2%20P%C3%A1gina%20de%20descri%C3%A7%C3%A3o)
 - Página de cursos e iframe
 - Construindo Foodfy
 
