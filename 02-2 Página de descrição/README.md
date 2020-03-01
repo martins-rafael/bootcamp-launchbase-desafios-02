@@ -30,4 +30,4 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 - Os links das redes sociais devem ter alguma alteração visual quando o cursor do mouse passar por cima
 
 ### Screenshot
-![screenshot](https://i.ibb.co/nRNhjMR/pagina-de-descricao.png)
+![screenshot](https://i.ibb.co/wr7RKdP/pagina-de-descricao.png)
