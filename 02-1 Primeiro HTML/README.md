@@ -39,4 +39,4 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 - Os links devem ter um espaçamento de 30px entre si
 
 ### Screenshot
-![screenshot](https://i.ibb.co/fGncKxH/primeiro-HTML.png)
+![screenshot](https://i.ibb.co/Js2ZTMB/primeiro-HTML.png)
