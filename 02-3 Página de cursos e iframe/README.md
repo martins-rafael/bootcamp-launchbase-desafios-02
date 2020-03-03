@@ -36,4 +36,4 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 - O modal nunca deve abrir maximizado
 
 ### content.html
-![gif](https://media.giphy.com/media/kyL1qBHKz3TRQm7zQf/giphy.gif)
+![gif](https://i.ibb.co/RbSPJx1/pagina-de-cursos-e-iframe.gif)
