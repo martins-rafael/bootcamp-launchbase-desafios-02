@@ -10,6 +10,10 @@
 
 ## :rocket: Sobre o desafio
 
+<p align="center">
+  <img src="screenshot.png" alt="screenshot">
+</p>
+
 A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre. Essa página deverá mostrar informações referentes a Rocketseat.
 
 ### Informações da página
@@ -28,6 +32,3 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 - Deve ser utilizada a fonte Roboto
 - O nome da empresa e a imagem devem ser destacar do restante
 - Os links das redes sociais devem ter alguma alteração visual quando o cursor do mouse passar por cima
-
-### Screenshot
-![screenshot](https://i.ibb.co/wr7RKdP/pagina-de-descricao.png)
