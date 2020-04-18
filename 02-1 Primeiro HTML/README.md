@@ -9,6 +9,9 @@
 <blockquote align="center">“Sua única limitação é você mesmo!”</blockquote>
 
 ## :rocket: Sobre o desafio
+<p align="center">
+  <img src="screenshot.png" alt="screenshot">
+</p>
 
 Criar um arquivo html que contenha um favicon e um header com 3 links: Comunidade, Email e Telefone.
 
@@ -37,6 +40,3 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 - O header precisa ocupar todo o espaço lateral e superior (body sem margin)
 - O header precisa ter um espaçamento interno de 30px em todas as direções
 - Os links devem ter um espaçamento de 30px entre si
-
-### Screenshot
-![screenshot](https://i.ibb.co/Js2ZTMB/primeiro-HTML.png)
