@@ -31,10 +31,18 @@ Construir um site completo para uma empresa de receitas chamada Foodfy.
 ## :clapper: Demo
 Os GIFs abaixo mostram o site em ação:
 
-<p align="center">
-  <img src="demo-navegação.gif" alt="navegação" >
-</p>
+<br>
 
-<p align="center">
-  <img src="demo-modal.gif" alt="navegação" >
-</p>
+### Navegação
+
+<div align="center">
+    <img src="demo-navegação.gif" alt="navegação" />
+</div>
+
+<br>
+
+### Modal
+
+<div align="center">
+    <img src="demo-modal.gif" alt="navegação" />
+</div>
